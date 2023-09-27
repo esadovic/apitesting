@@ -18,3 +18,4 @@ https://lh3.googleusercontent.com/drive-viewer/AK7aPaC-aRckRvx07pw33qknubr1-tpZJ
 
 Here is an example of DELETE method in Postman. 
 https://lh3.googleusercontent.com/drive-viewer/AK7aPaCbhXzJXIwQTor2dvm7zg8iT29i2s7ZNfbfO-xBvjMyE24BV5lggKXZx5wNDe4TEqtcagH2yzmtP-Q_3ful03qEH_eRRg=s1600
+<a href="https://lh3.googleusercontent.com/drive-viewer/AK7aPaBlboBJKRQTqKvlJavM-BM1fadUZOBfbNZbGMh3k5gL7kuEvKZYnQ8alj1g6_vFQTRMTWCughkCA13HmqAiFuCuWcJLQQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AK7aPaBlboBJKRQTqKvlJavM-BM1fadUZOBfbNZbGMh3k5gL7kuEvKZYnQ8alj1g6_vFQTRMTWCughkCA13HmqAiFuCuWcJLQQ=s1600" /> </a>
