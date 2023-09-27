@@ -8,15 +8,13 @@ Some of the HTTP methods that can be used in API calls are:
 
 Here is an example of GET method in Postman: 
 <a href="https://lh3.googleusercontent.com/drive-viewer/AK7aPaCsxlvCxYk3ShJDpI5sxGVj0bf94FRJfyei2LWgxF38UoA35PYCosn0MN9d4554J_YMANdTcRQRnWz0S5YKMapx4PBb=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AK7aPaCsxlvCxYk3ShJDpI5sxGVj0bf94FRJfyei2LWgxF38UoA35PYCosn0MN9d4554J_YMANdTcRQRnWz0S5YKMapx4PBb=s1600" /> </a>
-
-
+<br><br>
 Here is an example of POST method in Postman:  
 <a href="https://lh3.googleusercontent.com/drive-viewer/AK7aPaBlboBJKRQTqKvlJavM-BM1fadUZOBfbNZbGMh3k5gL7kuEvKZYnQ8alj1g6_vFQTRMTWCughkCA13HmqAiFuCuWcJLQQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AK7aPaBlboBJKRQTqKvlJavM-BM1fadUZOBfbNZbGMh3k5gL7kuEvKZYnQ8alj1g6_vFQTRMTWCughkCA13HmqAiFuCuWcJLQQ=s1600" /> </a>
-
+<br><br>
 Here is an example of PUT method in Postman: 
 <a href="https://lh3.googleusercontent.com/drive-viewer/AK7aPaC-aRckRvx07pw33qknubr1-tpZJc4W9Utfy7TIo0wDGRa9yJSS6ZivjBI5aFfqwpCIaMIdUxCdja-uRRLjJbG9tOa_gw=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AK7aPaC-aRckRvx07pw33qknubr1-tpZJc4W9Utfy7TIo0wDGRa9yJSS6ZivjBI5aFfqwpCIaMIdUxCdja-uRRLjJbG9tOa_gw=s1600" /> </a>
-
-
+<br> <br>
 Here is an example of DELETE method in Postman: 
 <a href="https://lh3.googleusercontent.com/drive-viewer/AK7aPaCbhXzJXIwQTor2dvm7zg8iT29i2s7ZNfbfO-xBvjMyE24BV5lggKXZx5wNDe4TEqtcagH2yzmtP-Q_3ful03qEH_eRRg=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AK7aPaCbhXzJXIwQTor2dvm7zg8iT29i2s7ZNfbfO-xBvjMyE24BV5lggKXZx5wNDe4TEqtcagH2yzmtP-Q_3ful03qEH_eRRg=s1600" /> </a>
 
